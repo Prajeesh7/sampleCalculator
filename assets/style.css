@@ -1,0 +1,41 @@
+.cal{
+    width: 245px;
+    height: 377px;
+    background: aqua;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#Scr1{
+    width: 179px;
+    height: 42px;
+    background: white;
+    margin-left: 33px;
+    margin-top: 20px;
+    pointer-events: none;
+}
+#clr{
+    width: 46px;
+    height: 40px;
+    font-family: fantasy;
+    margin-left: 10px;
+    padding: 16px 24px;
+    border-radius: 16px;
+    transition: 300ms;
+}
+.clear{
+    width: 10px;
+    margin-left: 10px;
+    margin-top: 14px;
+}
+.row{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+    
+#scr2{
+    width: 40px;
+    height: 40px;
+    margin-top: 13px;
+    margin-left: 9px;
+    font-family: fantasy;
+}
